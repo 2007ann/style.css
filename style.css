@@ -1,0 +1,20 @@
+<html>
+<body>
+<h2>Нужно что-то эффектное..</h2>
+
+</body>
+</html>
+<style>
+p{
+  color:green;
+  background-color: lightgreen;
+  border-radius: 30px solid darkgreen;
+}
+h2{
+  border-radius: 30px solid darkgreen;
+  font-family: serif;
+}
+body{
+  background-color: green;
+}
+</style>
